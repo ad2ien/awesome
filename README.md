@@ -13,11 +13,28 @@
 - [OhMyZsh](https://github.com/ohmyzsh/ohmyzsh/)
 - [Thefuck](https://github.com/nvbn/thefuck)
 - [Mcfly](https://github.com/cantino/mcfly)
+- <https://github.com/Swordfish90/cool-retro-term>
+- <https://github.com/derailed/k9s>
 
 #### Ohmyzsh plugins
 
 - [git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git)
+- [docker-compose](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/docker-compose)
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- [kubectl](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/kubectl)
 
-## 📺️ Linux apps
+## 📺️ Linux GUI apps
+
+- [Ardour](http://ardour.org/)
+- [TheGimp](https://www.gimp.org)
+- [Ardour](http://ardour.org/)
+- [Xournall++](https://github.com/xournalpp/xournalpp)
+- [dbeaver](https://dbeaver.io/)
+
+## VSC extensions
+
+[Ready to install](code-extensions.sh)
 
 ## 📚 Documentation / Guides
+
+- <https://gitmoji.dev/>
