@@ -13,6 +13,7 @@
 - [OhMyZsh](https://github.com/ohmyzsh/ohmyzsh/)
 - [Thefuck](https://github.com/nvbn/thefuck)
 - [Mcfly](https://github.com/cantino/mcfly)
+- [tldr](https://github.com/tldr-pages/tldr)
 - <https://github.com/Swordfish90/cool-retro-term>
 - <https://github.com/derailed/k9s>
 
