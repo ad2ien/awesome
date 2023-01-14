@@ -11,7 +11,7 @@ on:
 
 jobs:
   lint-commits:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
@@ -19,7 +19,7 @@ jobs:
           fetch-depth: 0
 
   lint-markdown:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
@@ -30,7 +30,7 @@ jobs:
           args: "**/*.md"
 
   lint-markdown-link:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
@@ -46,10 +46,10 @@ jobs:
           config-file: ".mlc_config.json"
 
   lint-yaml:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
 
       - name: Lint yaml files
-        uses: ibiqlik/action-yamllint@v3.1.0
+        uses: ibiqlik/action-yamllint@v3
