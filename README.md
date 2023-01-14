@@ -3,7 +3,7 @@
 > A curated list of resources, I use more or less regularly not to forget what I should install in a new station.
 
 [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ad2ien/awesome)
-[![lint](https://img.shields.io/github/workflow/status/ad2ien/awesome/Lint?label=lint&logo=github)](https://github.com/ad2ien/awesome/actions/workflows/lint.yml)
+[![lint](https://img.shields.io/github/actions/workflow/status/ad2ien/awesome/lint.yml?label=lint&logo=github)](https://github.com/ad2ien/awesome/actions/workflows/lint.yml)
 [![gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.dev)
 
 ## Resources
