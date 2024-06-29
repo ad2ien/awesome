@@ -1,6 +1,6 @@
 # Awesome ad2ien
 
-> A curated list of resources, I use more or less regularly not to forget what I should install in a new station.
+> A curated non-exaustive list of resources I use more or less regularly. What I should install on a new station.
 
 [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ad2ien/awesome)
 [![lint](https://img.shields.io/github/actions/workflow/status/ad2ien/awesome/lint.yml?label=lint&logo=github)](https://github.com/ad2ien/awesome/actions/workflows/lint.yml)
@@ -14,23 +14,27 @@
 - [Thefuck](https://github.com/nvbn/thefuck)
 - [Mcfly](https://github.com/cantino/mcfly)
 - [tldr](https://github.com/tldr-pages/tldr)
-- <https://github.com/Swordfish90/cool-retro-term>
-- <https://github.com/derailed/k9s>
+- [k9s](https://github.com/derailed/k9s)
 
 #### Ohmyzsh plugins
 
 - [git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git)
 - [docker-compose](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/docker-compose)
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete)
 - [kubectl](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/kubectl)
 
 ## 📺️ Linux GUI apps
 
-- [Ardour](http://ardour.org/)
-- [TheGimp](https://www.gimp.org)
-- [Ardour](http://ardour.org/)
-- [Xournall++](https://github.com/xournalpp/xournalpp)
-- [dbeaver](https://dbeaver.io/)
+- [TypeBooster](https://github.com/mike-fabian/ibus-typing-booster) - fast way to write emojis (Gnome)
+- [Tilix](https://github.com/gnunn1/tilix) - Terminal
+- [Typora](https://github.com/typora) - Notes in markdown
+- [Ardour](http://ardour.org/) - Music
+- [TheGimp](https://www.gimp.org) - Image processing
+- [Xournall++](https://github.com/xournalpp/xournalpp) - Pdf edition
+- [dbeaver](https://dbeaver.io/) - SQL
+- [Secrets](https://gitlab.gnome.org/World/secrets) - keepass files
+- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Terminal for demos
 
 ## VSC extensions
 
