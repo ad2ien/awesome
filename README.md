@@ -15,6 +15,7 @@
 - [Mcfly](https://github.com/cantino/mcfly)
 - [tldr](https://github.com/tldr-pages/tldr)
 - [k9s](https://github.com/derailed/k9s)
+- [yazi](https://github.com/sxyazi/yazi)
 
 #### Ohmyzsh plugins
 
@@ -35,10 +36,7 @@
 - [dbeaver](https://dbeaver.io/) - SQL
 - [Secrets](https://gitlab.gnome.org/World/secrets) - keepass files
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Terminal for demos
-
-## VSC extensions
-
-[Ready to install](code-extensions.sh)
+- [OnlyOffice desktop](https://github.com/ONLYOFFICE/DesktopEditors) - Office suite
 
 ## 📚 Documentation / Guides
 
