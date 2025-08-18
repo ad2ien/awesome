@@ -6,7 +6,7 @@
 [![lint](https://img.shields.io/github/actions/workflow/status/ad2ien/awesome/lint.yml?label=lint&logo=github)](https://github.com/ad2ien/awesome/actions/workflows/lint.yml)
 [![gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.dev)
 
-## Resources
+## Linux station
 
 ### 📟️ Cli tools
 
@@ -41,3 +41,19 @@
 ## 📚 Documentation / Guides
 
 - <https://gitmoji.dev/>
+
+## Smartphone
+
+- [/e/os](https://e.foundation/e-os/) open source operating system
+- [Lawnchair](https://lawnchair.app/) launcher
+- [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) Keyboard
+- [oss-weather](https://github.com/Akylas/oss-weather) Meteo app working in France
+- [2FA app](https://github.com/stratumauth/app) 2FA code generator
+- [KeePassDX](https://www.keepassdx.com/) KeePass file editor
+- [Tuner](https://github.com/thetwom/Tuner) Instrument tuner
+- [Fluffychat](https://fluffychat.im/) Matrix client
+- [mastodon-android](https://github.com/mastodon/mastodon-android)
+- [notes-android](https://github.com/nextcloud/notes-android) Nextcloud note app
+- [Task](https://github.com/nextcloud/tasks) Nextcloud Task client
+- [Osmand](https://github.com/osmandapp/Osmand)
+- [PeakOrama](https://github.com/woheller69/PeakOrama)
