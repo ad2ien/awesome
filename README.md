@@ -11,11 +11,13 @@
 ### 📟️ Cli tools
 
 - [OhMyZsh](https://github.com/ohmyzsh/ohmyzsh/)
+- [btop](https://github.com/aristocratos/btop)
 - [Thefuck](https://github.com/nvbn/thefuck)
 - [Mcfly](https://github.com/cantino/mcfly)
 - [tldr](https://github.com/tldr-pages/tldr)
 - [k9s](https://github.com/derailed/k9s)
 - [yazi](https://github.com/sxyazi/yazi)
+- [lazygit](https://github.com/jesseduffield/lazygit)
 
 #### Ohmyzsh plugins
 
@@ -27,6 +29,7 @@
 
 ## 📺️ Linux GUI apps
 
+- [Zen Browser](https://github.com/zen-browser/desktop)
 - [TypeBooster](https://github.com/mike-fabian/ibus-typing-booster) - fast way to write emojis (Gnome)
 - [Tilix](https://github.com/gnunn1/tilix) - Terminal
 - [Typora](https://github.com/typora) - Notes in markdown
@@ -36,13 +39,14 @@
 - [dbeaver](https://dbeaver.io/) - SQL
 - [Secrets](https://gitlab.gnome.org/World/secrets) - keepass files
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Terminal for demos
-- [OnlyOffice desktop](https://github.com/ONLYOFFICE/DesktopEditors) - Office suite
+- [Libre office](https://www.libreoffice.org/)
+- [Input Remapper](https://github.com/sezanzeb/input-remapper) - remap keyboard keys and shortcuts
 
 ## 📚 Documentation / Guides
 
 - <https://gitmoji.dev/>
 
-## Smartphone
+## 📱 Smartphone
 
 - [/e/os](https://e.foundation/e-os/) open source operating system
 - [Lawnchair](https://lawnchair.app/) launcher
@@ -57,3 +61,4 @@
 - [Task](https://github.com/nextcloud/tasks) Nextcloud Task client
 - [Osmand](https://github.com/osmandapp/Osmand)
 - [PeakOrama](https://github.com/woheller69/PeakOrama)
+- [SpamBLocker](https://github.com/aj3423/SpamBlocker) - call filter fine tuning
