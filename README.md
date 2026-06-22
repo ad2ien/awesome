@@ -37,7 +37,7 @@
 - [TheGimp](https://www.gimp.org) - Image processing
 - [Xournall++](https://github.com/xournalpp/xournalpp) - Pdf edition
 - [dbeaver](https://dbeaver.io/) - SQL
-- [Secrets](https://gitlab.gnome.org/World/secrets) - keepass files
+- [Secrets](https://apps.gnome.org/Secrets) - keepass files
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Terminal for demos
 - [Libre office](https://www.libreoffice.org/)
 - [Input Remapper](https://github.com/sezanzeb/input-remapper) - remap keyboard keys and shortcuts
